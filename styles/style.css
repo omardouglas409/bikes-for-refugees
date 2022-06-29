@@ -96,7 +96,19 @@ p {
 /* Buttons */
 
   /* INSERT BUTTON STYLES HERE */
+.donate-button {
+  background-color: #c05326 ;
+  color: #e4e4e4;
+  border-radius: 3px 3px 3px 3px ;
+  border: none;
 
+}
+.volunteer-button {
+  background-color: #f7eae4;
+  color: #c05326;
+  border-radius: 3px 3px 3px 3px ;
+  border: none;
+}
 
 /* Content */
 
@@ -120,7 +132,7 @@ p {
 /* hero */
 
 .hero {
-  background-image: url("header-bike.jpg");
+  background-image: url("/images/header-bike.jpg");
   background-color: var(--grey-light);
 }
 
